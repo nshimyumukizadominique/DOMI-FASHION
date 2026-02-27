@@ -1,0 +1,25 @@
+{
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/9c9ae_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_ssgManifest.js",
+    "static/development/_buildManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_4ac77219._.js",
+    "static/chunks/9c9ae_next_dist_compiled_react-dom_c88b68c5._.js",
+    "static/chunks/9c9ae_next_dist_compiled_react-server-dom-turbopack_12d4c264._.js",
+    "static/chunks/9c9ae_next_dist_compiled_next-devtools_index_ac1b9651.js",
+    "static/chunks/9c9ae_next_dist_compiled_7ce8ea2e._.js",
+    "static/chunks/9c9ae_next_dist_client_146a0a11._.js",
+    "static/chunks/9c9ae_next_dist_08a0652a._.js",
+    "static/chunks/9c9ae_@swc_helpers_cjs_74b346db._.js",
+    "static/chunks/domi-fashion_a0ff3932._.js",
+    "static/chunks/turbopack-domi-fashion_bcee6369._.js"
+  ]
+}

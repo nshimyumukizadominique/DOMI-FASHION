@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#0A0E0F] text-white antialiased;
+  }
+}
+
+.text-gold { color: #C5A059 !important; }
+.bg-gold { background-color: #C5A059 !important; }
+
+/* Amazon-style hover effect */
+.product-card:hover {
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+}
